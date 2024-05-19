@@ -2,7 +2,7 @@
 	"client": {
 		"host": "GHANO1996.aternos.me",
 		"port": "52814",
-		"username": "ghanochiiii"
+		"username": "flow bot"
 	},
 	"logLevel": ["error", "log", "debug"],
 	"action": {
