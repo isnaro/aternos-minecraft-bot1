@@ -1,0 +1,13 @@
+{
+	"client": {
+		"host": "GHANO1996.aternos.me",
+		"port": "52814",
+		"username": "ghanochiiii"
+	},
+	"logLevel": ["error", "log", "debug"],
+	"action": {
+		"commands": ["forward", "back", "left", "right", "jump"],
+		"holdDuration": 5000,
+		"retryDelay": 15000
+	}
+}
